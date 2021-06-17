@@ -13,3 +13,4 @@ pandas==0.25
 matplotlib > 3
 numpy
 scikit-learn
+py==1.8
