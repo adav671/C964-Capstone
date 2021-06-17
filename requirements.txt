@@ -6,7 +6,6 @@ Flask==2.0.1
 itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
-menuinst==1.4.16
 pycosat==0.6.3
 pywin32==228
 Werkzeug==2.0.1
